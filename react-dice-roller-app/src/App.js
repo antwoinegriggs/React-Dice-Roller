@@ -1,10 +1,10 @@
 import "./App.css";
-import DiceState from "./DiceRollComponent.js";
+import DiceRollComponent from "./DiceRollComponent.js";
 
 function App() {
   return (
     <div className="App">
-      <DiceState />
+      <DiceRollComponent />
     </div>
   );
 }
