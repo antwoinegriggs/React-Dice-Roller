@@ -1,0 +1,43 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: forestgreen;
+}
+
+#dice-roller {
+  width: 440px;
+  padding: 50px;
+  border: 1px black solid;
+  margin: auto;
+  height: 400px;
+  margin-top: 250px;
+  border-radius: 0.5rem;
+  background-image: linear-gradient(to right, red, black 70%);
+}
+
+img {
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+}
+#image-container {
+  display: flex;
+  flex-direction: row;
+}
+
+#dice-button {
+  width: 120px;
+  height: 30px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+#dice-result {
+  text-align: center;
+  color: gold;
+  margin-top: 50px;
+}
