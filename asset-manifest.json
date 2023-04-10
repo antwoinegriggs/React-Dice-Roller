@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Dice-Roller/static/css/main.2052111f.css",
-    "main.js": "/React-Dice-Roller/static/js/main.03ca770a.js",
+    "main.js": "/React-Dice-Roller/static/js/main.d4b5ea78.js",
     "static/js/787.a0965c79.chunk.js": "/React-Dice-Roller/static/js/787.a0965c79.chunk.js",
     "static/media/dicesix.png": "/React-Dice-Roller/static/media/dicesix.07523434110594092130.png",
     "static/media/dicefive.png": "/React-Dice-Roller/static/media/dicefive.28ed66811f76233329c8.png",
@@ -11,11 +11,11 @@
     "static/media/diceone.png": "/React-Dice-Roller/static/media/diceone.037f2a9cba2d4ce6cdd3.png",
     "index.html": "/React-Dice-Roller/index.html",
     "main.2052111f.css.map": "/React-Dice-Roller/static/css/main.2052111f.css.map",
-    "main.03ca770a.js.map": "/React-Dice-Roller/static/js/main.03ca770a.js.map",
+    "main.d4b5ea78.js.map": "/React-Dice-Roller/static/js/main.d4b5ea78.js.map",
     "787.a0965c79.chunk.js.map": "/React-Dice-Roller/static/js/787.a0965c79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2052111f.css",
-    "static/js/main.03ca770a.js"
+    "static/js/main.d4b5ea78.js"
   ]
 }
